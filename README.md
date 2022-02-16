@@ -28,7 +28,7 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
             <thead>
                 <tr>
                     <th scope="col">S. No</th>
-                    <th scope="col">Books Name</th>
+                    <th scope="col">Books</th>
                     <th scope="col">Link</th>
                   </tr>
             </thead>
@@ -40,51 +40,71 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
               <td>5.</td><td>Bumping</td><td>http://index-of.es/Lockpicking/bumping.pdf</td></tr>
               </tbody>
         </table>
+**Blogs**<br><br>
+        <table>
+            <thead>
+                <tr>
+                    <th scope="col">S. No</th>
+                    <th scope="col">Blogs</th>
+                    <th scope="col">Link</th>
+                  </tr>
+            </thead>
+            <tbody>
+              <td>1.</td><td>TOOOL UK Blog</td><td>https://toool.uk/blog/</td></tr>
+              <td>2.</td><td>Gravity Karma</td><td>https://gravitykarma.net/</td></tr>
+              <td>3.</td><td>Historical Safe Locks and Keys</td><td>http://safelockcollector.com/</td></tr>
+              </tbody>
+        </table>
+**Conferences and Events**<br><br>
+        <table>
+            <thead>
+                <tr>
+                    <th scope="col">S. No</th>
+                    <th scope="col">Conferences and Events</th>
+                    <th scope="col">Link</th>
+                  </tr>
+            </thead>
+            <tbody>
+              <td>1.</td><td>Chaos Communications Congress</td><td>https://www.ccc.de/en/</td></tr>
+              <td>2.</td><td>Hackers On Planet Earth (HOPE)</td><td>https://www.hope.net/</td></tr>
+              <td>3.</td><td>Open Locks</td><td>https://openlocks.at/</td></tr>
+	      <td>4.</td><td>LockCon</td><td>https://toool.nl/LockCon</td></tr>
+	      <td>5.</td><td>DEF CON</td><td>https://defcon.org/</td></tr>
+	      <td>6.</td><td>Meetup</td><td>https://www.meetup.com/topics/lock-picking/</td></tr>
+              </tbody>
+        </table>
+**Online Communities**<br><br>
+        <table>
+            <thead>
+                <tr>
+                    <th scope="col">S. No</th>
+                    <th scope="col">Conferences and Events</th>
+                    <th scope="col">Link</th>
+		    <th scope="col">Link</th>
+                  </tr>
+            </thead>
+            <tbody>
+              <td>1.</td><td>Lock Picking 101</td><td>https://discord.com/invite/GW5B3HqRX6</td><td>Discord</td></tr>
+              <td>2.</td><td>Extraordinary League of Pickers</td><td>https://discord.com/invite/BqAXwvq</td><td>Discord</td></tr>
+              <td>3.</td><td>Lock Picking</td><td>r/lockpicking</td><td>Reddit</td></tr>
+	      <td>4.</td><td>Locksport</td><td>r/locksport</td><td>Reddit</td></tr>
+	      <td>5.</td><td>SE Lock and Key</td><td>https://www.youtube.com/channel/UCodQb-trmkSY29oJICBiNzA</td><td>Youtube</td></tr>
+	      <td>5.</td><td>LockPicking Patrolman</td><td>https://www.youtube.com/c/LockPickingPatrolman</td><td>Youtube</td></tr>
+	      <td>7.</td><td>Starrylock</td><td>https://www.youtube.com/c/Starrylock_Locksport</td><td>Youtube</td></tr>
+              </tbody>
+        </table>
 </smart-table>
 
 
 
 
-
-
-Blogs
-
-https://toool.uk/blog/ - TOOOL UK Blog
-https://gravitykarma.net/ - Gravity Karma
-http://safelockcollector.com/ - Historical Safe Locks and Keys
-
-Conferences and Events
-
-Chaos Communications Congress (CCC) - CCC hosts the German Lockpicking Championships.
-DEF CON - Annual infosec industry conference which is popular with many lockpickers featuring a locksport contest.
-https://openlocks.at/
-Hackers On Planet Earth (HOPE) - Annual conference often featuring a locksport competition and presentations on physical security.
-OzSecCon - Open community event focusing on physical security in Australia, which hosts a lockpicking and handcuff evasion competition.
-LockCon - Annual, invitation-only international conference about locks for members of respected locksport organizations.
-
-Online communities
-
-	Meetup
-
-		https://www.meetup.com/topics/lock-picking/
-
-	Discord 
-
-		https://discord.com/invite/GW5B3HqRX6 - Lock Picking 101
-		https://discord.com/invite/BqAXwvq - Extraordinary League of Pickers
-
+	
 	Reddit
 
 		r/lockpicking
 		r/locksport
 
-	Youtube 
 	
-		SE Lock and Key - Saturday mornings 
-		LockPicking Patrolman - Wednesday, Saturday
-		Starrylock - Sunday	
-
-A curated list of awesome guides, tools, and other resources relating to the security and compromise of locks, safes, and keys.
 
 Tools
 
