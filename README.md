@@ -86,29 +86,28 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
             <tbody>
               <td>1.</td><td>Lock Picking 101</td><td>https://discord.com/invite/GW5B3HqRX6</td><td>Discord</td></tr>
               <td>2.</td><td>Extraordinary League of Pickers</td><td>https://discord.com/invite/BqAXwvq</td><td>Discord</td></tr>
-              <td>3.</td><td>Lock Picking</td><td>r/lockpicking</td><td>Reddit</td></tr>
-	      <td>4.</td><td>Locksport</td><td>r/locksport</td><td>Reddit</td></tr>
+              <td>3.</td><td>Lock Picking</td><td>https://www.reddit.com/r/lockpicking/</td><td>Reddit</td></tr>
+	      <td>4.</td><td>Locksport</td><td>https://www.reddit.com/r/locksport/</td><td>Reddit</td></tr>
 	      <td>5.</td><td>SE Lock and Key</td><td>https://www.youtube.com/channel/UCodQb-trmkSY29oJICBiNzA</td><td>Youtube</td></tr>
 	      <td>5.</td><td>LockPicking Patrolman</td><td>https://www.youtube.com/c/LockPickingPatrolman</td><td>Youtube</td></tr>
 	      <td>7.</td><td>Starrylock</td><td>https://www.youtube.com/c/Starrylock_Locksport</td><td>Youtube</td></tr>
               </tbody>
         </table>
+**Tools**<br><br>
+        <table>
+            <thead>
+                <tr>
+                    <th scope="col">S. No</th>
+                    <th scope="col">Blogs</th>
+                    <th scope="col">Link</th>
+                  </tr>
+            </thead>
+            <tbody>
+              <td>1.</td><td>Banggood</td><td>https://www.banggood.com/buy/lock-pick-tools.html</td></tr>
+              <td>2.</td><td>Lock Picks</td><td>https://www.lockpicks.com/</td></tr>
+              <td>3.</td><td>Sparrow Lock Picks</td><td>https://www.sparrowslockpicks.com/</td></tr>
+	      <td>4.</td><td>Lock Pick World</td><td>https://www.lockpickworld.com/</td></tr>
+              </tbody>
+        </table>
 </smart-table>
 
-
-
-
-	
-	Reddit
-
-		r/lockpicking
-		r/locksport
-
-	
-
-Tools
-
-	https://www.banggood.com/buy/lock-pick-tools.html
-	https://www.lockpicks.com/
-	https://www.sparrowslockpicks.com/
-	https://www.lockpickworld.com/
