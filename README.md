@@ -111,5 +111,19 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
 	      <td>4.</td><td>Lock Pick World</td><td>https://www.lockpickworld.com/</td></tr>
               </tbody>
         </table>
+:lock: **Videos**<br><br>
+        <table>
+            <thead>
+                <tr>
+                    <th scope="col">S. No</th>
+                    <th scope="col">Videos</th>
+                    <th scope="col">Link</th>
+                  </tr>
+            </thead>
+            <tbody>
+              <td>1.</td><td>Distinguishing Lockpicks</td><td>https://www.youtube.com/watch?v=e07VRxJ01Fs</td></tr>
+	      <td>2.</td><td>A Hackers Guide to Physical Access</td><td>https://www.youtube.com/watch?v=eft8PElmQZM</td></tr>
+             </tbody>
+        </table>
 </smart-table>
 
