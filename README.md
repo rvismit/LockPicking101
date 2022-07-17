@@ -55,6 +55,7 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
               <td>3.</td><td>Historical Safe Locks and Keys</td><td>http://safelockcollector.com/</td></tr>
 	      <td>4.</td><td>Lock Analyst</td><td>https://lockanalyst.org/</td></tr>
 	      <td>5.</td><td>Safe Locks</td><td>http://safelockcollector.com/</td></tr>
+	      <td>6.</td><td>Smart LockPicking</td><td>https://smartlockpicking.com//</td></tr>
               </tbody>
         </table>
 :lock: **Conferences and Events**<br><br>
