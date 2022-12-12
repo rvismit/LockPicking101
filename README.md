@@ -58,6 +58,7 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
 	      <td>6.</td><td>Smart LockPicking</td><td>https://smartlockpicking.com/</td></tr>
 	      <td>7.</td><td>Lock Lab</td><td>https://locklab.com/</td></tr>
 	      <td>8.</td><td>TRICKS & BYPASSES</td><td>https://locklab.com/tricks-bypasses/</td></tr>
+	      <td>9.</td><td>Pick Pals</td><td>https://www.pickpals.com.au/blog//</td></tr>
               </tbody>
         </table>
 :lock: **Conferences and Events**<br><br>
