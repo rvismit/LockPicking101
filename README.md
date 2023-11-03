@@ -79,6 +79,7 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
 	      <td>4.</td><td>LockCon</td><td>https://toool.nl/LockCon</td></tr>
 	      <td>5.</td><td>DEF CON</td><td>https://defcon.org/</td></tr>
 	      <td>6.</td><td>Meetup</td><td>https://www.meetup.com/topics/lock-picking/</td></tr>
+              <td>7.</td><td>Meetup</td><td>https://www.meetup.com/infosec-ni/events/csccctyfcqbjb/</td></tr>
               </tbody>
         </table>
 :lock: **Online Communities**<br><br>
