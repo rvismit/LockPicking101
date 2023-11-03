@@ -130,6 +130,7 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
               <td>1.</td><td>Distinguishing Lockpicks</td><td>https://www.youtube.com/watch?v=e07VRxJ01Fs</td></tr>
 	      <td>2.</td><td>A Hackers Guide to Physical Access</td><td>https://www.youtube.com/watch?v=eft8PElmQZM</td></tr>
 	      <td>3.</td><td>The Gentle Art of Lockpicking</td><td>https://thehackermind.podbean.com/e/ep-16-the-gentle-art-of-lockpicking/</td></tr>
+              <td>4.</td><td>How to Make and Use Lock Picks</td><td>https://www.youtube.com/watch?v=ZB2jE9euVPk</td></tr>
              </tbody>
         </table>
 </smart-table>
