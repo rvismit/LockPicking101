@@ -61,6 +61,7 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
 	      <td>8.</td><td>TRICKS & BYPASSES</td><td>https://locklab.com/tricks-bypasses/</td></tr>
 	      <td>9.</td><td>Pick Pals</td><td>https://www.pickpals.com.au/blog/</td></tr>
 	      <td>10.</td><td>Lock Picking Wiki</td><td>https://www.reddit.com/r/lockpicking/wiki/generalwiki/?v=c76c1009-b4a4-11ea-8ef8-0ed23bb08203</td></tr>
+       	      <td>11.</td><td>Lock Picking Tips</td><td>https://x-it.medium.com/lock-picking-guide-tools-techniques-tips-7eb11c54701d</td></tr>
               </tbody>
         </table>
 :lock: **Conferences and Events**<br><br>
@@ -132,6 +133,19 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
 	      <td>2.</td><td>A Hackers Guide to Physical Access</td><td>https://www.youtube.com/watch?v=eft8PElmQZM</td></tr>
 	      <td>3.</td><td>The Gentle Art of Lockpicking</td><td>https://thehackermind.podbean.com/e/ep-16-the-gentle-art-of-lockpicking/</td></tr>
               <td>4.</td><td>How to Make and Use Lock Picks</td><td>https://www.youtube.com/watch?v=ZB2jE9euVPk</td></tr>
+             </tbody>
+        </table>
+:lock: **PodCast**<br><br>
+        <table>
+            <thead>
+                <tr>
+                    <th scope="col">S. No</th>
+                    <th scope="col">PodCast</th>
+                    <th scope="col">Link</th>
+                  </tr>
+            </thead>
+            <tbody>
+              <td>1.</td><td>The Gentle Art of Lockpicking</td><td>https://thehackermind.podbean.com/e/ep-16-the-gentle-art-of-lockpicking/</td></tr>
              </tbody>
         </table>
 </smart-table>
