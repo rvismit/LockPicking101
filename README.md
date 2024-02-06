@@ -101,6 +101,7 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
 	      <td>5.</td><td>SE Lock and Key</td><td>https://www.youtube.com/channel/UCodQb-trmkSY29oJICBiNzA</td><td>Youtube</td></tr>
 	      <td>5.</td><td>LockPicking Patrolman</td><td>https://www.youtube.com/c/LockPickingPatrolman</td><td>Youtube</td></tr>
 	      <td>7.</td><td>Starrylock</td><td>https://www.youtube.com/c/Starrylock_Locksport</td><td>Youtube</td></tr>
+              <td>8.</td><td>Lockpicking</td><td>https://www.reddit.com/r/lockpicking/wiki/beltranking/</td><td>Youtube</td></tr>
               </tbody>
         </table>
 :lock: **Tools**<br><br>
