@@ -62,6 +62,7 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
 	      <td>9.</td><td>Pick Pals</td><td>https://www.pickpals.com.au/blog/</td></tr>
 	      <td>10.</td><td>Lock Picking Wiki</td><td>https://www.reddit.com/r/lockpicking/wiki/generalwiki/?v=c76c1009-b4a4-11ea-8ef8-0ed23bb08203</td></tr>
        	      <td>11.</td><td>Lock Picking Tips</td><td>https://x-it.medium.com/lock-picking-guide-tools-techniques-tips-7eb11c54701d</td></tr>
+	      <td>12.</td><td>Master Auto Locksmith</td><td>https://www.ukbumpkeys.com/blogs/news/information-packed-interview-with-a-master-auto-locksmith</td></tr>
               </tbody>
         </table>
 :lock: **Conferences and Events**<br><br>
