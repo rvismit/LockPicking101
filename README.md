@@ -1,4 +1,4 @@
-# LockPicking101 	:closed_lock_with_key:
+# LockPicking101 	
 A curated list of awesome guides, books, tools, and other resources relating to the **"Lock Picking"**. 
 
 Lock picking is the practice of unlocking a lock by manipulating the components of the lock device without the original key. _--wiki_
