@@ -119,6 +119,7 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
               <td>2.</td><td>Lock Picks</td><td>https://www.lockpicks.com/</td></tr>
               <td>3.</td><td>Sparrow Lock Picks</td><td>https://www.sparrowslockpicks.com/</td></tr>
 	      <td>4.</td><td>Lock Pick World</td><td>https://www.lockpickworld.com/</td></tr>
+              <td>5.</td><td>Lock Pick Web</td><td>https://lockpickweb.com/</td></tr>
               </tbody>
         </table>
 :lock: **Videos**<br><br>
