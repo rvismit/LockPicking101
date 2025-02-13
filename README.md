@@ -23,7 +23,7 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
               <td>4.</td><td>Lockpicking by Deviant Ollam</td><td>https://deviating.net/lockpicking/videos.html</td></tr>
 	      <td>5.</td><td>THIS 3D PRINTED ROBOT CAN ACTUALLY PICK LOCKS</td><td>https://hackaday.com/2022/05/01/this-3d-printed-robot-can-actually-pick-locks/#more-532824</td></tr>
        	      <td>6.</td><td>Driver Pins</td><td>https://elvencraft.com/locksport/Driver%20Pins.svg</td></tr> 
-	      <td>7.</td><td>Lock Analysiss</td><td>http://www.theamazingking.com/lock-ana.php</td></tr> 
+	      <td>7.</td><td>Lock Analysis</td><td>http://www.theamazingking.com/lock-ana.php</td></tr> 
               </tbody>
         </table><br>
 :lock: **Books**<br><br>
@@ -67,7 +67,7 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
 	      <td>12.</td><td>Master Auto Locksmith</td><td>https://www.ukbumpkeys.com/blogs/news/information-packed-interview-with-a-master-auto-locksmith</td></tr>
               </tbody>
         </table>
-:lock: **Conferences and Events**<br><br>
+:lock: **Conferences and Events 2025**<br><br>
         <table>
             <thead>
                 <tr>
@@ -77,13 +77,13 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
                   </tr>
             </thead>
             <tbody>
-              <td>1.</td><td>Chaos Communications Congress</td><td>https://www.ccc.de/en/</td></tr>
-              <td>2.</td><td>Hackers On Planet Earth (HOPE)</td><td>https://www.hope.net/</td></tr>
-              <td>3.</td><td>Open Locks</td><td>https://openlocks.at/</td></tr>
-	      <td>4.</td><td>LockCon</td><td>https://toool.nl/LockCon</td></tr>
-	      <td>5.</td><td>DEF CON</td><td>https://defcon.org/</td></tr>
-	      <td>6.</td><td>Meetup</td><td>https://www.meetup.com/topics/lock-picking/</td></tr>
-              <td>7.</td><td>Meetup</td><td>https://www.meetup.com/infosec-ni/events/csccctyfcqbjb/</td></tr>
+              <td>1.</td><td>Layer One</td><td>https://www.layerone.org/events/lockpicking-village/</td></tr>
+              <td>2.</td><td>Women in Security and Privacy</td><td>https://www.wisporg.com/upcoming-events/the-craft-of-lock-picking-hands-on-workshop</td></tr>
+              <td>3.</td><td>Open Locks</td><td>https://openlocks.at/events/wien-lockpicking-3-2025-02-18/</td></tr>
+	      <td>4.</td><td>Meetup</td><td>https://www.meetup.com/toool_toronto/</td></tr>
+	      <td>5.</td><td>Cackalackycon</td><td>https://cackalackycon.org/events</td></tr>
+	      <td>6.</td><td>Meetup</td><td>https://www.meetup.com/seattle-lockpicking/</td></tr>
+              <td>7.</td><td>Meetup</td><td>https://www.meetup.com/albany-locksport-meetup-group/events/</td></tr>
               </tbody>
         </table>
 :lock: **Online Communities**<br><br>
