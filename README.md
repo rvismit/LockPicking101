@@ -151,6 +151,7 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
             </thead>
             <tbody>
               <td>1.</td><td>The Gentle Art of Lockpicking</td><td>https://thehackermind.podbean.com/e/ep-16-the-gentle-art-of-lockpicking/</td></tr>
+	      <td>2.</td><td>Lessons from the Lockpicking Lawyer</td><td>https://www.hipsocket.net/86-lessons-from-the-lockpicking-lawyer-messages-to-your-tribe/</td></tr>
              </tbody>
         </table>
 </smart-table>
