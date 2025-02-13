@@ -23,6 +23,7 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
               <td>4.</td><td>Lockpicking by Deviant Ollam</td><td>https://deviating.net/lockpicking/videos.html</td></tr>
 	      <td>5.</td><td>THIS 3D PRINTED ROBOT CAN ACTUALLY PICK LOCKS</td><td>https://hackaday.com/2022/05/01/this-3d-printed-robot-can-actually-pick-locks/#more-532824</td></tr>
        	      <td>6.</td><td>Driver Pins</td><td>https://elvencraft.com/locksport/Driver%20Pins.svg</td></tr> 
+	      <td>7.</td><td>Lock Analysiss</td><td>http://www.theamazingking.com/lock-ana.php</td></tr> 
               </tbody>
         </table><br>
 :lock: **Books**<br><br>
