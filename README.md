@@ -78,13 +78,11 @@ Picking locks is not rocket science and with a little knowledge, practice, and a
                   </tr>
             </thead>
             <tbody>
-              <td>1.</td><td>Layer One</td><td>https://www.layerone.org/events/lockpicking-village/</td></tr>
-              <td>2.</td><td>Women in Security and Privacy</td><td>https://www.wisporg.com/upcoming-events/the-craft-of-lock-picking-hands-on-workshop</td></tr>
-              <td>3.</td><td>Open Locks</td><td>https://openlocks.at/events/wien-lockpicking-3-2025-02-18/</td></tr>
-	      <td>4.</td><td>Meetup</td><td>https://www.meetup.com/toool_toronto/</td></tr>
-	      <td>5.</td><td>Cackalackycon</td><td>https://cackalackycon.org/events</td></tr>
-	      <td>6.</td><td>Meetup</td><td>https://www.meetup.com/seattle-lockpicking/</td></tr>
-              <td>7.</td><td>Meetup</td><td>https://www.meetup.com/albany-locksport-meetup-group/events/</td></tr>
+              <td>1.</td><td>Lockpicking Social</td><td>https://www.meetup.com/infosec-ni/events/csccctyhckbdb</td></tr>
+              <td>2.</td><td>Lockpicking Village</td><td>https://www.layerone.org/events/lockpicking-village/</td></tr>
+              <td>3.</td><td>Toronto Toool & Locksport</td><td>https://www.meetup.com/toool_toronto</td></tr>
+	      <td>4.</td><td>Meetup</td><td>https://www.meetup.com/seattle-lockpicking/</td></tr>
+              <td>5.</td><td>Meetup</td><td>https://www.meetup.com/albany-locksport-meetup-group/events/</td></tr>
               </tbody>
         </table>
 :lock: **Online Communities**<br><br>
